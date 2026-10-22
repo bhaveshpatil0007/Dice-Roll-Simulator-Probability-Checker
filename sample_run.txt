@@ -1,0 +1,27 @@
+Theoretical probability per face: 1/6 = 16.6667%
+
+10 rolls | maximum absolute error: 13.3333 percentage points
+  Face 1:       3  ( 30.00%)
+  Face 2:       1  ( 10.00%)
+  Face 3:       2  ( 20.00%)
+  Face 4:       1  ( 10.00%)
+  Face 5:       2  ( 20.00%)
+  Face 6:       1  ( 10.00%)
+
+1,000 rolls | maximum absolute error: 1.5333 percentage points
+  Face 1:     182  ( 18.20%)
+  Face 2:     152  ( 15.20%)
+  Face 3:     157  ( 15.70%)
+  Face 4:     173  ( 17.30%)
+  Face 5:     177  ( 17.70%)
+  Face 6:     159  ( 15.90%)
+
+100,000 rolls | maximum absolute error: 0.1463 percentage points
+  Face 1:  16,703  ( 16.70%)
+  Face 2:  16,686  ( 16.69%)
+  Face 3:  16,522  ( 16.52%)
+  Face 4:  16,690  ( 16.69%)
+  Face 5:  16,813  ( 16.81%)
+  Face 6:  16,586  ( 16.59%)
+
+Charts and CSV saved to /home/user/conv_45b8ba59-2241-43f7-a4d8-154f4d21c3dc/Dice_Roll_Project
